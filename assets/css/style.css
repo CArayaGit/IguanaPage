@@ -1,0 +1,107 @@
+body {
+    background-color: #000000;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 500;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 500;
+}
+
+p {
+    font-weight: 300;
+}
+
+footer {
+    background-color: #1E1A13;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 20px;
+}
+
+.primera-iguana {
+    width: 1280;
+    height: 727;
+}
+
+.titulo, .centrado, .gris, .primera-iguana {
+    text-align: center;
+}
+
+.centrado img {
+    text-align: center;
+}
+
+.txt, p, h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+}
+
+.pie {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.icono {
+    background-color: #1E1A13;
+    color: #ffffff;
+}
+
+.icono a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.gris {
+    background-color: #1E1A13;
+}
+
+.caract {
+    padding-top: 50px;
+}
+
+.gris a {
+    display: inline-block;
+    margin: 1em auto;
+    padding: 3em;
+}
+
+.txt1 {
+    text-align: center;
+    
+}
+
+.descripcion {
+    font-size: 16px;
+    text-align: left;
+    width: 475px;
+    height: 197px; 
+    display: inline-block; 
+}
+
+.descripcion a {
+    text-align: left;
+}
+
+.descripcion img {
+    width: 399px;
+    height: 237px;
+}
+
+.iguanas {
+    text-align: center;
+    margin: 5px;    
+}
+
+.iguanas img {
+    width: 316px;
+    height: 202px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 10px;
+}
